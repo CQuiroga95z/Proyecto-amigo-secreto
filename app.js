@@ -31,3 +31,4 @@ function sortearAmigo() {
      document.querySelector("#resultado").innerHTML = amigos[indice];
    }
 }
+
